@@ -4,7 +4,6 @@ ffmpeg_sources
 tests
 
 # Editor
-.vscode
 
 # Models
 *.bin
@@ -31,3 +30,5 @@ nimbledeps
 *\.wasm
 *-web\.js
 *-web64\.js
+config.bat
+node_modules

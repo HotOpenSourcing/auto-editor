@@ -3,7 +3,7 @@
   "main": "server.js",
   "type": "module",
   "scripts": {
-    "dev": "bun run --watch server.js"
+    "dev": "node init && bun run --watch server.js"
   },
   "dependencies": {
     "express": "latest"
